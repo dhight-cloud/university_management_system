@@ -8,14 +8,17 @@ A full-stack web application and normalized relational database built to streaml
 
 ## Visual Preview
 
+### Role-Based Login Portal
+![Role-Based Login Portal](docs/screenshots/login_portal.png)
+
 ### Student Registration & FIFO Waitlist
-![Student Course Registration and Waitlist](docs/screenshots/student-waitlist.png)
+![Student Course Registration and Waitlist](docs/screenshots/student_waitlist.png)
 
 ### Admin Dashboard
-![Administrator Dashboard](docs/screenshots/admin-dashboard.png)
+![Administrator Dashboard](docs/screenshots/admin_dashboard.png)
 
 ### Relational Database Schema (ERD)
-![Volunteer State Database ERD](docs/screenshots/database-erd.png)
+![Volunteer State Database ERD](docs/screenshots/database_erd.png)
 
 ---
 
